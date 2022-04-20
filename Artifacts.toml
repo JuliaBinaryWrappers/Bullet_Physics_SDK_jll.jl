@@ -1,0 +1,288 @@
+[[Bullet_Physics_SDK]]
+arch = "aarch64"
+git-tree-sha1 = "413f88dc840b5bba45a1995271a6af286cc68c2f"
+os = "macos"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "1dc3b2011e477c7fc906c07d08a281ed0b290e17837e9de2aa6dd0407d5ff5d2"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.aarch64-apple-darwin.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "510ee24a561460c73a57f6897e4198ae1e2dba64"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "025e30b5f6eddef0d088367fbfd338d14ab8eba329dd9992f04fa1f78a69cecf"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6afc043fa528fdf57294a49b6af1186a0fd542af"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "fae7f3743cfb798451d8b2a75691d56cebe7b55c1ad379bc9adc7ebaf7b4f13b"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6ccf4fd3b27d911f061674e3dd052972f266a4e"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "aa03684b198a8823c7cf90b3780e9ac780700bad8269847bd2d360b8592d37b9"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e122b5e2fa73f4f0d2763b393895ecc5ee5b923f"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "f919bdb19780e77bef5bc4c4d0b94278e2b4303a132cd25b2db84a486538b86e"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb33c26ca5dfc95b358c227a87ca9483dac6b28a"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "b9770fb0ecef371bd03df68cc4ded7e55fb013d997b34fb53253f34fe81f044f"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec7b18fd1bf8a62bbd9fbdd4818380c06b6f9200"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "b3270125cb1726b2da6fe037f1b31537b380420ba4b1350d4a8612093ed4b8ad"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "acfe1a50678b22d3322f3243d4e3a5ce0bc0aecf"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "35bd717ba3f5a32bbad9b27e10d36f26787be5cca608ce6cf7a2cd94f08524ac"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6311be6d53f91ee56e1485157472f8c05c83ca9"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "4421b4eed001fd245f103339d5fa4b346bf02dbf41677e15faf40296f63aaa5c"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b9b8da9728824bef28174ba2e538e61a626b200"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "f930d8295357fe810f0e1c95d58d4174561a06e383d0ce9e84f3cc871b18be19"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d055736bea190c519765bc5715d2e546fe021f75"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "65a753abd94ec8430619883b5990d08c3408a3090eb1d3820c220b417711ee47"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fc591ed42e2a10bfac4c79f8db85c20b8f246ab"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "ed5457921e63ec3edc4e3012fb962e76f6df838d5bdc8b70903d6c184a742584"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6db9d2d22817813f3e6eda5ba5ed71e60acfc74"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "5f5d8a2c5006b881bc7535cc89f2cd62c334d25f057f731b73f7fe2f7175bab9"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d795705802e6a0bf3474d3384cdec880542d3d8"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "5571822c9f0c5ea34b5cc189a4a4fecfcc39750b639cda1729c052159205cba2"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-linux-gnu-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "732caa1de661b1ef75049d6bb3ea4739771a7db4"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "75d040b9ec7ea623de5d6858621398bb8fa12d320d62d495e17fae56498e716a"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-linux-gnu-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "62e3502cc2ea77ea38d78ae3587a5056ce273934"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "015cfcea8266ebe5eb40fe9dc49fe74fb9432881dccde89a6f279c487f93eac8"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-linux-musl-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "429f83c5aa92e45fd5ea1ee1dcfcf4726a25e647"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "d30cf8bb7879dc1c2b523745c191f5033ce157b7adf6881b62fd9cc2ace7058e"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-linux-musl-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6ecaa2423f00b6eeb23164f447bd52e2c6166b9"
+os = "windows"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "4047221c7cb33975ab8699a2137ac2c3c311f5272ccd05a2680672009def939a"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbca3995184317a977f0013ad4bb6bc994fd7508"
+os = "windows"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "2ca37e6d57389d068f687817a88ea400b30dc5d88ebaf5190ebd2c35c7aea54c"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f55e4a4f90c3ef11bf473832b00da8133b9b35a8"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "3c6c23eba72dee10b93c8bf0cd2d7678e9e1da8af797b2d77a32cf30cfa4c4f7"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a587ac0297cb99f240a4ac75feadda216ba6f3a6"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "28b2cbf906a1e5c786c64ebcf9858f5c7e0ec531ac312d913880e99eb4410006"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+git-tree-sha1 = "91e3c88f26b888c9bd4c431c43f28e5429a3c58e"
+os = "macos"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "666ad34f9bc50fea7fafd5afee2deef95e21feff7ce07a77d84f2a0a2fe987c2"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-apple-darwin.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a13a49fcee55a88c14d0664a15ed425ae5af449f"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "1bf9acfc7a25c75436ec9206f3cb3bb4a1e82ef660ca3dbd60cc3dfc239aeaab"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7062b519753a0e12c440fcc5387d05a5f41ef4f"
+libc = "glibc"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "c4c499f0203d8355d4486a11f934b5c03f4745d2aab929d918536ff290944164"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08ada33a7b0fb5b781e3d88620cf0527aacef7cd"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "45791bfb1dfecaecca08c8513b03944a489918221fa2db3791713004cee9bdbd"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "617cfc77b506ae5366d9d76cf00ce7fe1ff3b057"
+libc = "musl"
+os = "linux"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "3820a1cbc350fafa8e1bc9dc700f98d252622ae8e23507ee5625a5452b83ec34"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+git-tree-sha1 = "5b471a02c7bddf501e1d0a04809cb6a0cc52e736"
+os = "freebsd"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "40963e0b6a5d2c9fa6d5d5b0f794e9fc5ffe870adbf821e1fed30853771fc0b7"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-unknown-freebsd.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "32f662803fb17a8a10c3688872027fcb0197cf20"
+os = "windows"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "c5471f214d1eae5bf17f18d750dce3c72913e62034e5d6ef4309f654242ab979"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Bullet_Physics_SDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b031b0d8822e33fee6dc02e5850bbde389c7e38f"
+os = "windows"
+
+    [[Bullet_Physics_SDK.download]]
+    sha256 = "e56eabef2a46c3ce3333ed8d6af4033bce64a38343e46f6911e8ea1c03d111d4"
+    url = "https://github.com/JuliaBinaryWrappers/Bullet_Physics_SDK_jll.jl/releases/download/Bullet_Physics_SDK-v3.22.0+0/Bullet_Physics_SDK.v3.22.0.x86_64-w64-mingw32-cxx11.tar.gz"
